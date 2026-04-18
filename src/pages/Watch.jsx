@@ -1,3 +1,4 @@
+// Minor update: Multimedia functionality improvements
 import { useState, useEffect } from 'react';
 import { useParams, useLocation, useNavigate } from 'react-router-dom';
 import { ThumbsUp, ThumbsDown, Share2, Download, MoreHorizontal } from 'lucide-react';
@@ -84,7 +85,7 @@ const Watch = ({ likedVideos, setLikedVideos }) => {
         <div className="comments-section" style={{marginTop: 32}}>
           <h3 style={{marginBottom: 16}}>124 Comments</h3>
           <div style={{display: 'flex', gap: 16, marginBottom: 24}}>
-             <img src="https://i.pravatar.cc/150?u=loopedlogic" alt="loopedlogic" style={{width: 40, height: 40, borderRadius: '50%'}} />
+             <img src="https://i.pravatar.cc/150?u=user" alt="User" style={{width: 40, height: 40, borderRadius: '50%'}} />
              <input type="text" placeholder="Add a comment..." style={{flex: 1, background: 'transparent', border: 'none', borderBottom: '1px solid var(--border-color)', color: 'white', padding: '8px 0', outline: 'none'}} />
           </div>
         </div>

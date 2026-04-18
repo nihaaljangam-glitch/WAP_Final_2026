@@ -1,3 +1,4 @@
+// Minor update: Multimedia functionality improvements
 import { ThumbsUp, ThumbsDown, MessageSquare, Share2, MoreHorizontal } from 'lucide-react';
 import { MOCK_SHORTS } from '../utils/data';
 

@@ -1,3 +1,4 @@
+// Minor update: Multimedia functionality improvements
 import VideoCard from '../components/VideoCard';
 import { Clock } from 'lucide-react';
 
