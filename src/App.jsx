@@ -1,3 +1,4 @@
+// Minor update for WAP Final 2026 deployment
 import { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout';
