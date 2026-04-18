@@ -1,3 +1,4 @@
+// Minor update: User interface improvements
 import VideoCard from '../components/VideoCard';
 import { ThumbsUp } from 'lucide-react';
 

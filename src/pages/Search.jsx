@@ -1,3 +1,4 @@
+// Minor update: User interface improvements
 import { useState, useEffect } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import VideoCard from '../components/VideoCard';

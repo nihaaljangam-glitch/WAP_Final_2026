@@ -1,3 +1,4 @@
+// Minor update: User interface improvements
 import { useState, useEffect } from 'react';
 import VideoCard from '../components/VideoCard';
 import { CATEGORIES } from '../utils/data';
